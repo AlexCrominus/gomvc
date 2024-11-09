@@ -7,7 +7,7 @@
 To install `gomvc` directly using `go install`, run:
 
 ```bash
-go install github.com/username/gomvc@latest
+go install github.com/AlexCrominus/gomvc@latest
 ```
 
 Replace `github.com/username/gomvc` with the actual repository URL where `gomvc` is hosted.
